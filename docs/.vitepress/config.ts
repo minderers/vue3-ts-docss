@@ -15,7 +15,7 @@ export default defineConfig({
             { text: '关于我', link: '/about/' }
         ],
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/dl199812' }
+            { icon: 'github', link: 'https://github.com/minderers/vue3-ts-docss' }
         ],
         sidebar: {
             '/vue/': [
