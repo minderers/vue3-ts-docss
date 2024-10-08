@@ -6,7 +6,7 @@ hero:
   text: "记录学习，分享知识"
   tagline: "Stay hungry, stay foolish."
   image:
-    src: /assets/logo.jpg
+    src: https://minder-bucket.oss-cn-nanjing.aliyuncs.com/jpg/logo.jpg
     alt: hero image
   actions:
     - theme: brand
